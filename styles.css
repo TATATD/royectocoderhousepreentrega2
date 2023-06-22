@@ -1,0 +1,27 @@
+h1 {color: rgb(207, 20, 20);}
+
+body{background-color:black}
+
+.caja-posicionada {background-color: aqua;
+
+}
+
+
+.caja {background-color: white;
+    border: 3px; color: red ;
+    font-size: 2rem;
+
+}
+
+
+
+.contenedor {background-color: white;
+height:  98vh;
+
+display: grid;
+
+grid-template-columns: 1000px 400px auto;
+grid-template-rows: 500px auto auto ;
+
+
+}
